@@ -1,0 +1,26 @@
+{
+  "old": "2.5.3",
+  "new": "2.5.4",
+  "changed": [
+    "CHANGELOG.md",
+    "README.md",
+    "assets/js/widget.js",
+    "build/chat-contract-audit.json",
+    "build/turn-repository-audit.json",
+    "build/version-update.json",
+    "docs/MIGRATION.md",
+    "docs/OPERATIONS.md",
+    "docs/TESTING.md",
+    "package.json",
+    "readme.txt",
+    "scripts/verify-chat-flow-contract.py",
+    "src/Infrastructure/Ai/GeminiInteractionsClient.php",
+    "src/Infrastructure/Database/Installer.php",
+    "src/Infrastructure/Database/Schema.php",
+    "src/Plugin.php",
+    "tests/Unit/GeminiInteractionsClientTest.php",
+    "tests/Unit/InstallerTest.php",
+    "tests/bootstrap.php",
+    "yassin-ai-assistant.php"
+  ]
+}

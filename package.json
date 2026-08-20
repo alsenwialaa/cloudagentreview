@@ -1,0 +1,10 @@
+{
+  "name": "yassin-ai-assistant",
+  "version": "2.5.4",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/js/*.test.js tests/accessibility/*.test.js",
+    "verify": "bash scripts/verify.sh"
+  }
+}

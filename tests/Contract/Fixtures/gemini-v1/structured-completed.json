@@ -1,0 +1,19 @@
+{
+  "created": "2026-08-14T00:00:00Z",
+  "id": "v1_fixture_structured",
+  "model": "gemini-3.7-flash",
+  "object": "interaction",
+  "status": "completed",
+  "steps": [
+    {
+      "type": "model_output",
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"contract\":\"stable-v1\",\"ready\":true}"
+        }
+      ]
+    }
+  ],
+  "updated": "2026-08-14T00:00:01Z"
+}

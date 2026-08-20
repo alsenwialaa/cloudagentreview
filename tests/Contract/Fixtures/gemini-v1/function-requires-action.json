@@ -1,0 +1,18 @@
+{
+  "created": "2026-08-14T00:00:00Z",
+  "id": "v1_fixture_function",
+  "model": "gemini-3.7-flash",
+  "object": "interaction",
+  "status": "requires_action",
+  "steps": [
+    {
+      "name": "contract_echo",
+      "type": "function_call",
+      "arguments": {
+        "value": "stable-v1"
+      },
+      "id": "fixture-call-1"
+    }
+  ],
+  "updated": "2026-08-14T00:00:01Z"
+}

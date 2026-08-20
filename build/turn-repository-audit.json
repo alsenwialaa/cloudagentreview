@@ -1,0 +1,22 @@
+{
+  "generated_for_version": "2.5.4",
+  "checks": {
+    "transaction_boundary": true,
+    "conversation_row_lock": true,
+    "turn_identity": true,
+    "typed_request_conflict": true,
+    "claim_generation": true,
+    "lease_fencing": true,
+    "processing_exclusion": true,
+    "assistant_presentation_identity": true,
+    "unpresented_completed_predicate": true,
+    "unpresented_accepted_failure_predicate": true,
+    "generation_fenced_user_message": true,
+    "generation_fenced_memory": true,
+    "terminal_reconciliation": true,
+    "exact_terminal_replay_does_not_require_new_ownership": true,
+    "missing_turn_absence_transaction": true,
+    "missing_turn_claim_serialization": true,
+    "missing_turn_synthetic_hash_fence": true
+  }
+}
